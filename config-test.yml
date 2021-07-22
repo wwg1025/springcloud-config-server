@@ -4,4 +4,4 @@ spring:
     name: springcloud-config-test
     
 config:
-  info: "master branch,springcloud-config-server/applicaition-test.yml version=1"
+  info: "master branch,springcloud-config-server/config-test.yml version=1"
