@@ -5,4 +5,4 @@ spring:
     
     
 config:
-  info: "master branch,springcloud-config-server/config-dev.yml version=13"
+  info: "master branch,springcloud-config-server/config-dev.yml version=22"
